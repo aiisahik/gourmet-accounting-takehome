@@ -1,3 +1,5 @@
+# Takehome Exercise 
+
 A large bank Oldman Socks has hired you to help develop a new loan product to provide a line of credit to business customers. At the heart of this product is an accounting system to used by other product engineerings at Oldman. You have been tasked with developing this system.
 
 The system needs to track events and balances for a number of different ledger types for each customer. For example, a set of ledger types might include: `principal`, `application_fee`, `principle_paid`, `interest_fee` , `interest_fee_paid` and `late_fees`. During the relationship of the customer with Oldman Socks the system will process different events, each changing the  balances of one or more ledger types. The system need to be able to process the events and keep track of all balances for any given date. The ledger types tracked by the product might be expanded in the future.
